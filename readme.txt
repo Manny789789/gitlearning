@@ -4,8 +4,5 @@ STAGED
 Git tracks
 My stupid boss still prefers SVN.
 HELLO GITHUB
-<<<<<<< HEAD
 create a new branch is so quick AND simple.
-=======
-create a new branch is so quick AND simple.
->>>>>>> feature1
+HELLO WORLD
